@@ -44,11 +44,11 @@ This link will take you to the web page: **[BookStore App](https://bookstore-ros
 <h3> 🤝🏻 &nbsp;Connect with me through: </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aldo-moro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aldo%20Moro-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:moro_bramanti@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/MS-Outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/estebanmanrupe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Esteban%20Manrupe-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:es0teban_manrupe@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/MS-Outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
 </p>
 
-⭐️ Link to my GitHub profile: [AM4772](https://github.com/AM4772)
+⭐️ Link to my GitHub profile: [peurman](https://github.com/peurman)
 
 ## How to use it locally
 
